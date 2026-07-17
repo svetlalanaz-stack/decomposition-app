@@ -1,0 +1,11 @@
+.columns-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .columns-section {
+    flex-direction: column;
+  }
+}

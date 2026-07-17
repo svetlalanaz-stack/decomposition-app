@@ -1,0 +1,11 @@
+.header {
+  padding: 20px 0;
+  border-bottom: 2px solid #dee2e6;
+  margin-bottom: 25px;
+}
+
+.header h1 {
+  margin: 0;
+  color: #333;
+  font-size: 28px;
+}

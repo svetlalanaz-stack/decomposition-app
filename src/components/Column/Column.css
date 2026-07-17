@@ -1,0 +1,21 @@
+.column {
+  flex: 1;
+  min-width: 180px;
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.column__title {
+  margin: 0 0 12px 0;
+  font-size: 17px;
+  color: #222;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 8px;
+}
+
+.column__list {
+  margin: 0;
+  padding: 0;
+}
