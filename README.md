@@ -1,3 +1,3 @@
-[![Deploy to GitHub Pages](https://github.com/svetlalanaz-stack/cards-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/svetlalanaz-stack/cards-app/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/svetlalanaz-stack/decomposition-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/svetlalanaz-stack/decomposition-app/actions/workflows/deploy.yml)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://svetlalanaz-stack.github.io/cards-app/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://svetlalanaz-stack.github.io/decomposition-app/)
